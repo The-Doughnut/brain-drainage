@@ -1,0 +1,51 @@
+@font-face { font-family: Nokia; src: url('Nokia Pure Text.ttf'); } 
+
+body{
+	width: 800px;
+}
+h1{
+	font-family: "Nokia";
+}
+h2{
+	font-family: "Nokia";
+	background-color: #d9d9d9;
+	padding: 16px;
+}
+h3{
+	font-family: "Nokia";
+	margin-left: 5px;
+}
+p{
+	font-family: "Nokia";
+}
+a{
+	font-family: "Nokia";
+}
+audio{
+	margin-left: 5px;
+}
+table{
+	border-style: outset;
+	margin: 5px;
+}
+th,td{
+	border-style: inset;
+}
+.interactive{
+	margin: 5px;
+	border-style: outset;
+	text-decoration: none;
+	color: white;
+	background-color: grey;
+}
+.wow{
+	margin: 16px;
+	border-style: inset;
+}
+.spacingL{
+	margin-left: 5px;
+}
+.spacingL1{
+	margin-left: 5px;
+	margin-top: 5px;
+}
